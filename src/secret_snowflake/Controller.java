@@ -9,6 +9,8 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.TreeMap;
 
+import interfaces.ISnowflake;
+
 public class Controller implements ISnowflake{
 	
 	private List<String> myList;

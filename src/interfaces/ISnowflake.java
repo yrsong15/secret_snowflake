@@ -1,4 +1,4 @@
-package secret_snowflake;
+package interfaces;
 
 public interface ISnowflake {
 	public void printResult();
